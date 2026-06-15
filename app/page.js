@@ -54,7 +54,7 @@ export default function Home() {
             <img
               alt="A playful manga-style illustration of a happy steaming dumpling mascot being picked up by chopsticks"
               className="w-full h-auto rounded-xl shadow-[8px_8px_0px_#e3bebb] border-4 border-white object-cover"
-              src="https://lh3.googleusercontent.com/aida-public/AB6AXuChIjRzv-HYbnpC8_WdOm4H7VVfrx5ZN686pUCzDVatUBsreSP65XvQnPTdLs5-P7xeUTSizkXQROqmuVSD9ymO1XaM5wQnXs-S_4Lclk5vrsy9HMKWnNKKw6_qCqeOuE8uIF-bTg98QYBajL2Echmy9ZQ4E536L0zrAavROXcW8yuyPuNAut8hZCXg5WxzRwOferdbtLuwt4Cv0g_BynBgcOdRSCp6ipXJavajOqh-hrn9XjnXHR3L2a7VnH3COGO4fYwVu3iWNA"
+              src="/hero_image.png"
             />
           </div>
 
