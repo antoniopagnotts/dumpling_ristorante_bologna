@@ -6,11 +6,10 @@ const navLinks = [
   { key: "home", href: "/" },
   { key: "menu", href: "/menu" },
   { key: "contacts", href: "/contacts" },
-  { key: "location", href: "/contacts#map" },
 ];
 
 /**
- * @param {{ t: object, locale: string, setLocale: (l: string) => void, activePage: "home"|"menu"|"contacts"|"location" }} props
+ * @param {{ t: object, locale: string, setLocale: (l: string) => void, activePage: "home"|"menu"|"contacts" }} props
  */
 export default function Navbar({ t, locale, setLocale, activePage }) {
   return (
