@@ -26,6 +26,9 @@ const ebGaramond = EB_Garamond({
 export const metadata = {
   title: "Dumpling Bologna",
   description: "I migliori dumpling di Bologna, preparati a mano ogni giorno.",
+  icons: {
+    icon: "/gyoza_icon.svg",
+  },
 };
 
 export default function RootLayout({ children }) {

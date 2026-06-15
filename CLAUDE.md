@@ -24,9 +24,9 @@ A reusable Next.js website template for Italian restaurants. Includes dynamic me
 │   ├── page.jsx                  # Homepage: hero, intro, CTA booking
 │   ├── menu/
 │   │   └── page.jsx              # Dynamic menu from Sanity
-│   ├── prenota/
+│   ├── book/
 │   │   └── page.jsx              # Booking form
-│   ├── contatti/
+│   ├── contacts/
 │   │   └── page.jsx              # Contact form + Google Maps + Hours
 │   ├── studio/
 │   │   └── [[...tool]]/
@@ -41,8 +41,6 @@ A reusable Next.js website template for Italian restaurants. Includes dynamic me
 │   ├── Footer.jsx
 │   ├── MenuCategory.jsx          # Menu section with dishes
 │   ├── BookingForm.jsx           # Booking form with client-side validation
-│   ├── ContactForm.jsx
-│   ├── OpeningHours.jsx          # Shows open/closed status based on current time
 │   └── GoogleMap.jsx             # Google Maps iframe embed
 ├── sanity/
 │   ├── lib/
